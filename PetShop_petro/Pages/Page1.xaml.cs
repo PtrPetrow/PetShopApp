@@ -27,7 +27,29 @@ namespace PetShop_petro.Pages
 
         private void LoginButton_Click(object sender, RoutedEventArgs e)
         {
+            try
+            {
+                StringBuilder errors = new StringBuilder();
+                if (string.IsNullOrEmpty(LoginTextBox.Text))
+                {
+                    errors.AppendLine("Заполните логин");
+                }
+                if (string.IsNullOrEmpty(PasswordBox.Password))
+                {
+                    errors.AppendLine("Заполните пароль");
+                }
 
+                if (errors.Length > 0)
+                {
+                    MessageBox.Show(errors.ToString(), "Ошибка!", MessageBoxButton.OK, MessageBoxImage.Error);
+                    return ;
+                }
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString(), "Ошибка!", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
 
         private void GuestButton_Click(object sender, RoutedEventArgs e)
