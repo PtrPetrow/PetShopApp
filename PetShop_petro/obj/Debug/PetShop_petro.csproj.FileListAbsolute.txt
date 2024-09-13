@@ -16,3 +16,12 @@ C:\PetroU\PetShop_petro\PetShop_petro\obj\Debug\PetShop_petro.csproj.GenerateRes
 C:\PetroU\PetShop_petro\PetShop_petro\obj\Debug\PetShop_petro.csproj.CoreCompileInputs.cache
 C:\PetroU\PetShop_petro\PetShop_petro\obj\Debug\PetShop_petro.exe
 C:\PetroU\PetShop_petro\PetShop_petro\obj\Debug\PetShop_petro.pdb
+C:\PetroU\PetShop_petro\PetShop_petro\bin\Debug\EntityFramework.dll
+C:\PetroU\PetShop_petro\PetShop_petro\bin\Debug\EntityFramework.SqlServer.dll
+C:\PetroU\PetShop_petro\PetShop_petro\bin\Debug\EntityFramework.xml
+C:\PetroU\PetShop_petro\PetShop_petro\bin\Debug\EntityFramework.SqlServer.xml
+C:\PetroU\PetShop_petro\PetShop_petro\bin\Debug\ru\EntityFramework.resources.dll
+C:\PetroU\PetShop_petro\PetShop_petro\obj\Debug\Pages\ViewProductsPage.g.cs
+C:\PetroU\PetShop_petro\PetShop_petro\obj\Debug\PetShop_petro_Content.g.cs
+C:\PetroU\PetShop_petro\PetShop_petro\obj\Debug\Pages\ViewProductsPage.baml
+C:\PetroU\PetShop_petro\PetShop_petro\obj\Debug\PetShop_petro.csproj.CopyComplete

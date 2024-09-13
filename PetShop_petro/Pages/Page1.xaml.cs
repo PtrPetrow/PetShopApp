@@ -45,10 +45,43 @@ namespace PetShop_petro.Pages
                     return ;
                 }
 
+                if (Data.PetrouEntities.GetContext().User
+                    .Any(d => d.UserLogin == LoginTextBox.Text
+                    && d.UserPassword == PasswordBox.Password))
+                {
+                    var user = Data.PetrouEntities.GetContext().User
+                    .Where(d => d.UserLogin == LoginTextBox.Text
+                    && d.UserPassword == PasswordBox.Password).FirstOrDefault();
+
+
+                    switch (user.Role.RoleName)
+                    {
+                        case "Администратор":
+                            Classes.Manager.MainFrame.Navigate(new Pages.ViewProductsPage());
+                            break;
+
+                        case "Клиент":
+                            Classes.Manager.MainFrame.Navigate(new Pages.ViewProductsPage());
+                            break;
+
+                        case "Менеджер":
+                            Classes.Manager.MainFrame.Navigate(new Pages.ViewProductsPage());
+                            break;
+                    }
+
+                    MessageBox.Show("Успех!", "Успех!", MessageBoxButton.OK, MessageBoxImage.Information);
+
+                }
+                else
+                {
+                    MessageBox.Show("Некоректный логин/пароль!", "Ошибка!", MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.ToString(), "Ошибка!", MessageBoxButton.OK, MessageBoxImage.Error);
+
             }
         }
 
