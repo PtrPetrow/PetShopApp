@@ -20,17 +20,15 @@ namespace PetShop_petro.Data
             : base("name=PetrouEntities")
         {
         }
-
-
+    
         public static PetrouEntities GetContext()
         {
-            if(_context == null)
+            if (_context == null)
             {
                 _context = new PetrouEntities();
             }
             return _context;
         }
-
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             throw new UnintentionalCodeFirstException();

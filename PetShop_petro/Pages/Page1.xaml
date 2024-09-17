@@ -6,7 +6,7 @@
       xmlns:local="clr-namespace:PetShop_petro.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="Page1">
+      Title="ИС Товары для животных - Авторизация">
 
     <Grid>
         <StackPanel VerticalAlignment="Center"

@@ -6,9 +6,43 @@
       xmlns:local="clr-namespace:PetShop_petro.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="ViewProductsPage">
+      Title="ИС ТОвары для животных - Просмотр товаров">
 
     <Grid>
-        <Label Content="Страница 2"></Label>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label x:Name="FIOLable" HorizontalAlignment="Right"
+               Margin="0,0,10,0" Content="ФИО"
+               VerticalAlignment="Center" Grid.Row="0"></Label>
+        <Grid Grid.Row="1">
+            <TextBox x:Name="SearchTexBox" Width="150"
+                 Grid.Row="1" HorizontalAlignment="Left"
+                 Margin="10,0,0,0" TextChanged="SearchTexBox_TextChanged"></TextBox>
+            <RadioButton x:Name="SortUpRadioButton"
+                         Content="По возрастанию" VerticalAlignment="Center"
+                         HorizontalAlignment="Left"
+                         Margin="200,0,0,0" Checked="SortUpRadioButton_checked">
+            </RadioButton>
+            <RadioButton x:Name="SortDownRadioButton"
+                         Content="По возрастанию" VerticalAlignment="Center"
+                         HorizontalAlignment="Left"
+                         Margin="340,0,0,0" Checked="SortDownRadioButton_checked">
+            </RadioButton>
+            <ComboBox x:Name="ManufacturerComboBox"
+                      Width="160" Height="30"
+                      HorizontalAlignment="Left"
+                      VerticalAlignment="Center"
+                      Margin="470,0,0,0" DisplayMemberPath="Name">
+            </ComboBox>
+        </Grid>
+
+        <ListView x:Name="ProductListView"
+                  VerticalAlignment="Center"
+                  HorizontalAlignment="Center"
+                  Margin="10" Grid.Row="2"></ListView>
     </Grid>
 </Page>
