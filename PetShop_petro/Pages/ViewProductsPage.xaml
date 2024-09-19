@@ -18,19 +18,22 @@
         <Label x:Name="FIOLable" HorizontalAlignment="Right"
                Margin="0,0,10,0" Content="ФИО"
                VerticalAlignment="Center" Grid.Row="0"></Label>
+        <Label x:Name="CountOfLable" HorizontalAlignment="Left"
+               Margin="10,0,0,0" Content="15/30"
+               VerticalAlignment="Center" Grid.Row="0"></Label>
         <Grid Grid.Row="1">
             <TextBox x:Name="SearchTexBox" Width="150"
                  Grid.Row="1" HorizontalAlignment="Left"
-                 Margin="10,0,0,0" TextChanged="SearchTexBox_TextChanged"></TextBox>
+                 Margin="10,0,0,0" TextChanged="SearchTextBox_TextChanged"></TextBox>
             <RadioButton x:Name="SortUpRadioButton"
                          Content="По возрастанию" VerticalAlignment="Center"
                          HorizontalAlignment="Left"
-                         Margin="200,0,0,0" Checked="SortUpRadioButton_checked">
+                         Margin="200,0,0,0" Checked="SortUpRadioButton_Checked">
             </RadioButton>
             <RadioButton x:Name="SortDownRadioButton"
                          Content="По возрастанию" VerticalAlignment="Center"
                          HorizontalAlignment="Left"
-                         Margin="340,0,0,0" Checked="SortDownRadioButton_checked">
+                         Margin="340,0,0,0" Checked="SortDownRadioButton_Checked">
             </RadioButton>
             <ComboBox x:Name="ManufacturerComboBox"
                       Width="160" Height="30"
@@ -43,6 +46,53 @@
         <ListView x:Name="ProductListView"
                   VerticalAlignment="Center"
                   HorizontalAlignment="Center"
-                  Margin="10" Grid.Row="2"></ListView>
+                  Margin="10" Grid.Row="2">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"></ColumnDefinition>
+                            <ColumnDefinition Width="400"></ColumnDefinition>
+                            <ColumnDefinition Width="150"></ColumnDefinition>
+                            <ColumnDefinition Width="150"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+
+                        <Image Grid.Column="0"
+                    Margin="10">
+                            <Image.Source>
+                                <Binding Path="ProductPhoto">
+                                    <Binding.TargetNullValue>
+                                        <BitmapImage UriSource ="/Resources/picture.png" ></BitmapImage>
+                                    </Binding.TargetNullValue>
+                                </Binding>
+                            </Image.Source>
+                        </Image>
+
+                        <StackPanel Grid.Column="1"
+                         VerticalAlignment="Center"
+                         HorizontalAlignment="Left">
+                            <TextBlock Text="{Binding ProductName.name,
+                     StringFormat={}Наименование товара:{0}}"
+                            FontWeight="Bold"></TextBlock>
+                            <TextBlock Text="{Binding Description,
+                     StringFormat={}Описание товара:{0}}"
+                            TextWrapping="Wrap"></TextBlock>
+                            <TextBlock Text="{Binding Manufacrture.manufac,
+                     StringFormat={}Производитель:{0}}"></TextBlock>
+                            <TextBlock Text="{Binding ProductCost,
+                     StringFormat={}Цена:{0}}"></TextBlock>
+                        </StackPanel>
+
+                        <TextBlock Grid.Column="2" Text="{Binding QuantityInStock, 
+                 StringFormat={}Наличие на складе: {0}}"
+                        VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+                        <Button x:Name="DeleteButton" Content="Удалить"
+                     Click="DeleteButton_Click" Grid.Column="3"></Button>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button x:Name="BackButton" Content="Назад"
+          Click="BackButton_Click" Grid.Row="3"></Button>
     </Grid>
 </Page>

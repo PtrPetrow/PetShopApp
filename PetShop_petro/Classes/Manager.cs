@@ -12,6 +12,9 @@ namespace PetShop_petro.Classes
     {
         public static Frame MainFrame { get; set; }
 
+        public static Data.User CurrentUser { get; set; }
+
+
         public static void GetImageData()
         {
             try
@@ -31,7 +34,6 @@ namespace PetShop_petro.Classes
             catch (Exception)
             {
 
-                throw;
             }
         }
     }

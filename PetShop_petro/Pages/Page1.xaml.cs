@@ -87,7 +87,7 @@ namespace PetShop_petro.Pages
 
         private void GuestButton_Click(object sender, RoutedEventArgs e)
         {
-
+            Classes.Manager.MainFrame.Navigate(new Pages.ViewProductsPage());
         }
     }
 }
