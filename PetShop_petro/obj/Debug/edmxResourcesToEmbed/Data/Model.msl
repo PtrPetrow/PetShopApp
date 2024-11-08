@@ -71,6 +71,7 @@
       <EntityTypeMapping TypeName="PetrouModel.Product">
         <MappingFragment StoreEntitySet="Product">
           <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idUnit" ColumnName="idUnit" />
           <ScalarProperty Name="idProductName" ColumnName="idProductName" />
           <ScalarProperty Name="idManufacture" ColumnName="idManufacture" />
           <ScalarProperty Name="idSupplier" ColumnName="idSupplier" />
@@ -134,6 +135,14 @@
           <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
           <ScalarProperty Name="version" ColumnName="version" />
           <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Units">
+      <EntityTypeMapping TypeName="PetrouModel.Units">
+        <MappingFragment StoreEntitySet="Units">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="NameOfUnit" ColumnName="NameOfUnit" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

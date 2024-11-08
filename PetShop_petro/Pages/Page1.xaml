@@ -15,6 +15,9 @@
             <TextBox x:Name="LoginTextBox"></TextBox>
             <Label Content="Пароль:"></Label>
             <PasswordBox x:Name="PasswordBox"></PasswordBox>
+            <Label x:Name="CaptchaLabel" Content="Введите CAPTCHA:" Visibility="Collapsed"></Label>
+            <TextBox x:Name="CaptchaTextBox" Visibility="Collapsed"></TextBox>
+            <Image x:Name="CaptchaImage" Width="200" Height="100" Visibility="Collapsed"></Image>
             <Button x:Name="LoginButton" Content="Войти"
                     Click="LoginButton_Click" Margin="10"></Button>
             <Button x:Name="GuestButton" Content="Гость"

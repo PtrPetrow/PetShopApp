@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filon\\Desktop\\PetShopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|c:\\users\\filon\\desktop\\petshopapp\\petshop_petro\\pages\\addeditproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|solutionrelative:petshop_petro\\pages\\addeditproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|c:\\users\\filon\\desktop\\petshopapp\\petshop_petro\\pages\\adminlkpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|solutionrelative:petshop_petro\\pages\\adminlkpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|c:\\users\\filon\\desktop\\petshopapp\\petshop_petro\\pages\\adminlkpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|solutionrelative:petshop_petro\\pages\\adminlkpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|c:\\users\\filon\\desktop\\petshopapp\\petshop_petro\\pages\\addeditproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|solutionrelative:petshop_petro\\pages\\addeditproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|C:\\Users\\filon\\Desktop\\PetShopApp\\petshop_petro\\pages\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|solutionrelative:petshop_petro\\pages\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|C:\\Users\\filon\\Desktop\\PetShopApp\\petshop_petro\\pages\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|solutionrelative:petshop_petro\\pages\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|C:\\Users\\filon\\Desktop\\PetShopApp\\petshop_petro\\pages\\viewproductspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|solutionrelative:petshop_petro\\pages\\viewproductspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|C:\\Users\\filon\\Desktop\\PetShopApp\\petshop_petro\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|solutionrelative:petshop_petro\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|c:\\users\\filon\\desktop\\petshopapp\\petshop_petro\\pages\\viewproductspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|solutionrelative:petshop_petro\\pages\\viewproductspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|C:\\Users\\filon\\Desktop\\PetShopApp\\petshop_petro\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FA5DF0-04FD-48A3-9019-5BC78A1B5135}|PetShop_petro\\PetShop_petro.csproj|solutionrelative:petshop_petro\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEditProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Pages\\AddEditProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "PetShop_petro\\Pages\\AddEditProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Pages\\AddEditProductPage.xaml.cs",
+              "RelativeToolTip": "PetShop_petro\\Pages\\AddEditProductPage.xaml.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAiwAcBAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:28:08.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminLKPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Pages\\AdminLKPage.xaml.cs",
+              "RelativeDocumentMoniker": "PetShop_petro\\Pages\\AdminLKPage.xaml.cs",
+              "ToolTip": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Pages\\AdminLKPage.xaml.cs",
+              "RelativeToolTip": "PetShop_petro\\Pages\\AdminLKPage.xaml.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAuwH4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:10:40.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminLKPage.xaml",
+              "DocumentMoniker": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Pages\\AdminLKPage.xaml",
+              "RelativeDocumentMoniker": "PetShop_petro\\Pages\\AdminLKPage.xaml",
+              "ToolTip": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Pages\\AdminLKPage.xaml",
+              "RelativeToolTip": "PetShop_petro\\Pages\\AdminLKPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T21:07:57.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Pages\\AddEditProductPage.xaml",
+              "RelativeDocumentMoniker": "PetShop_petro\\Pages\\AddEditProductPage.xaml",
+              "ToolTip": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Pages\\AddEditProductPage.xaml",
+              "RelativeToolTip": "PetShop_petro\\Pages\\AddEditProductPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T20:36:00.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Pages\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "PetShop_petro\\Pages\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Pages\\Page1.xaml.cs",
+              "RelativeToolTip": "PetShop_petro\\Pages\\Page1.xaml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:50:51.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\App.xaml",
+              "RelativeDocumentMoniker": "PetShop_petro\\App.xaml",
+              "ToolTip": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\App.xaml",
+              "RelativeToolTip": "PetShop_petro\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T14:35:00.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewProductsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Pages\\ViewProductsPage.xaml.cs",
+              "RelativeDocumentMoniker": "PetShop_petro\\Pages\\ViewProductsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Pages\\ViewProductsPage.xaml.cs",
+              "RelativeToolTip": "PetShop_petro\\Pages\\ViewProductsPage.xaml.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAUwHUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:48:36.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Pages\\Page1.xaml",
+              "RelativeDocumentMoniker": "PetShop_petro\\Pages\\Page1.xaml",
+              "ToolTip": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Pages\\Page1.xaml",
+              "RelativeToolTip": "PetShop_petro\\Pages\\Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T15:18:24.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewProductsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Pages\\ViewProductsPage.xaml",
+              "RelativeDocumentMoniker": "PetShop_petro\\Pages\\ViewProductsPage.xaml",
+              "ToolTip": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Pages\\ViewProductsPage.xaml",
+              "RelativeToolTip": "PetShop_petro\\Pages\\ViewProductsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T12:32:51.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Classes\\Manager.cs",
+              "RelativeDocumentMoniker": "PetShop_petro\\Classes\\Manager.cs",
+              "ToolTip": "C:\\Users\\filon\\Desktop\\PetShopApp\\PetShop_petro\\Classes\\Manager.cs",
+              "RelativeToolTip": "PetShop_petro\\Classes\\Manager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:32:16.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

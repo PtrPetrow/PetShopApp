@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f957ecc2b5674e48aff937c46ca63201" Name="Diagram1">
+        <EntityTypeShape EntityType="PetrouModel.Category" Width="1.5" PointX="0.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetrouModel.City" Width="1.5" PointX="1.5" PointY="24.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetrouModel.Index" Width="1.5" PointX="1.5" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetrouModel.Manufacrture" Width="1.5" PointX="0.75" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetrouModel.Order" Width="1.5" PointX="3" PointY="19.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetrouModel.OrderProduct" Width="1.5" PointX="5.25" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetrouModel.PickPoint" Width="1.5" PointX="0.75" PointY="17.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetrouModel.Product" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetrouModel.ProductName" Width="1.5" PointX="0.75" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetrouModel.Role" Width="1.5" PointX="1.5" PointY="35.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetrouModel.Status" Width="1.5" PointX="0.75" PointY="21.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetrouModel.Street" Width="1.5" PointX="1.5" PointY="29.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetrouModel.Supplier" Width="1.5" PointX="0.75" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetrouModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetrouModel.Units" Width="1.5" PointX="0.75" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetrouModel.User" Width="1.5" PointX="0.75" PointY="31.75" IsExpanded="true" />
+        <AssociationConnector Association="PetrouModel.FK_Product_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="PetrouModel.FK_PickPoint_City" ManuallyRouted="false" />
+        <AssociationConnector Association="PetrouModel.FK_PickPoint_Index" ManuallyRouted="false" />
+        <AssociationConnector Association="PetrouModel.FK_Product_Manufacrture" ManuallyRouted="false" />
+        <AssociationConnector Association="PetrouModel.FK_Order_PickPoint" ManuallyRouted="false" />
+        <AssociationConnector Association="PetrouModel.FK_Order_Status" ManuallyRouted="false" />
+        <AssociationConnector Association="PetrouModel.FK_Order_User" ManuallyRouted="false" />
+        <AssociationConnector Association="PetrouModel.FK_OrderProduct_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="PetrouModel.FK_OrderProduct_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="PetrouModel.FK_PickPoint_Street" ManuallyRouted="false" />
+        <AssociationConnector Association="PetrouModel.FK_Product_ProductName" ManuallyRouted="false" />
+        <AssociationConnector Association="PetrouModel.FK_Product_Supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="PetrouModel.FK_Product_Units" ManuallyRouted="false" />
+        <AssociationConnector Association="PetrouModel.FK_User_Role" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -24,6 +24,7 @@ namespace PetShop_petro
         {
             InitializeComponent();
 
+            Classes.Manager.GetImagePetModel();
             Classes.Manager.MainFrame = MainFrame;
             Classes.Manager.MainFrame.Navigate(new Pages.Page1());
         }

@@ -5,8 +5,9 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:PetShop_petro.Pages"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
-      Title="ИС ТОвары для животных - Просмотр товаров">
+      d:DesignHeight="600" d:DesignWidth="1000"
+      MinHeight="600" MinWidth="1000"
+      Title="ИС Товары для животных - Просмотр товаров">
 
     <Grid>
         <Grid.RowDefinitions>
@@ -15,23 +16,25 @@
             <RowDefinition Height="*"></RowDefinition>
             <RowDefinition Height="50"></RowDefinition>
         </Grid.RowDefinitions>
+
         <Label x:Name="FIOLable" HorizontalAlignment="Right"
                Margin="0,0,10,0" Content="ФИО"
                VerticalAlignment="Center" Grid.Row="0"></Label>
         <Label x:Name="CountOfLable" HorizontalAlignment="Left"
                Margin="10,0,0,0" Content="15/30"
                VerticalAlignment="Center" Grid.Row="0"></Label>
+
         <Grid Grid.Row="1">
             <TextBox x:Name="SearchTexBox" Width="150"
-                 Grid.Row="1" HorizontalAlignment="Left"
-                 Margin="10,0,0,0" TextChanged="SearchTextBox_TextChanged"></TextBox>
+                     Grid.Row="1" HorizontalAlignment="Left"
+                     Margin="10,0,0,0" TextChanged="SearchTextBox_TextChanged"></TextBox>
             <RadioButton x:Name="SortUpRadioButton"
                          Content="По возрастанию" VerticalAlignment="Center"
                          HorizontalAlignment="Left"
                          Margin="200,0,0,0" Checked="SortUpRadioButton_Checked">
             </RadioButton>
             <RadioButton x:Name="SortDownRadioButton"
-                         Content="По возрастанию" VerticalAlignment="Center"
+                         Content="По убыванию" VerticalAlignment="Center"
                          HorizontalAlignment="Left"
                          Margin="340,0,0,0" Checked="SortDownRadioButton_Checked">
             </RadioButton>
@@ -39,7 +42,8 @@
                       Width="160" Height="30"
                       HorizontalAlignment="Left"
                       VerticalAlignment="Center"
-                      Margin="470,0,0,0" DisplayMemberPath="Name">
+                      Margin="470,0,0,0" DisplayMemberPath="manufac" 
+                      SelectionChanged="ManufacturerComboBox_SelectionChanged">
             </ComboBox>
         </Grid>
 
@@ -47,6 +51,17 @@
                   VerticalAlignment="Center"
                   HorizontalAlignment="Center"
                   Margin="10" Grid.Row="2">
+
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding QuantityInStock}" Value="0">
+                            <Setter Property="Background" Value="LightGray"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </ListView.ItemContainerStyle>
+
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <Grid>
@@ -55,44 +70,48 @@
                             <ColumnDefinition Width="400"></ColumnDefinition>
                             <ColumnDefinition Width="150"></ColumnDefinition>
                             <ColumnDefinition Width="150"></ColumnDefinition>
+                            <ColumnDefinition Width="150"></ColumnDefinition>
                         </Grid.ColumnDefinitions>
 
                         <Image Grid.Column="0"
-                    Margin="10">
+                               Margin="10">
                             <Image.Source>
-                                <Binding Path="ProductPhoto">
+                                <Binding Path="Image">
                                     <Binding.TargetNullValue>
-                                        <BitmapImage UriSource ="/Resources/picture.png" ></BitmapImage>
+                                        <BitmapImage UriSource ="/Resources/picture.png" />
                                     </Binding.TargetNullValue>
                                 </Binding>
                             </Image.Source>
                         </Image>
 
                         <StackPanel Grid.Column="1"
-                         VerticalAlignment="Center"
-                         HorizontalAlignment="Left">
+                                    VerticalAlignment="Center"
+                                    HorizontalAlignment="Left">
                             <TextBlock Text="{Binding ProductName.name,
-                     StringFormat={}Наименование товара:{0}}"
-                            FontWeight="Bold"></TextBlock>
+                                StringFormat={}Наименование товара: {0}}"
+                                       FontWeight="Bold"/>
                             <TextBlock Text="{Binding Description,
-                     StringFormat={}Описание товара:{0}}"
-                            TextWrapping="Wrap"></TextBlock>
+                                StringFormat={}Описание товара: {0}}"
+                                       TextWrapping="Wrap"/>
                             <TextBlock Text="{Binding Manufacrture.manufac,
-                     StringFormat={}Производитель:{0}}"></TextBlock>
+                                StringFormat={}Производитель: {0}}"/>
                             <TextBlock Text="{Binding ProductCost,
-                     StringFormat={}Цена:{0}}"></TextBlock>
+                                StringFormat={}Цена: {0}}"/>
                         </StackPanel>
 
                         <TextBlock Grid.Column="2" Text="{Binding QuantityInStock, 
-                 StringFormat={}Наличие на складе: {0}}"
-                        VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+                            StringFormat={}Наличие на складе: {0}}"
+                                   VerticalAlignment="Center" HorizontalAlignment="Center"/>
                         <Button x:Name="DeleteButton" Content="Удалить"
-                     Click="DeleteButton_Click" Grid.Column="3"></Button>
+                            Click="DeleteButton_Click" Grid.Column="3"></Button>
+                        <Button x:Name="EditButton" Content="Редактировать"
+                            Click="EditButton_Click" Grid.Column="4"></Button>
                     </Grid>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
+
         <Button x:Name="BackButton" Content="Назад"
-          Click="BackButton_Click" Grid.Row="3"></Button>
+                Click="BackButton_Click" Grid.Row="3"/>
     </Grid>
 </Page>

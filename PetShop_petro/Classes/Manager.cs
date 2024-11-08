@@ -12,14 +12,14 @@ namespace PetShop_petro.Classes
     {
         public static Frame MainFrame { get; set; }
 
-        public static Data.User CurrentUser { get; set; }
+        public static PetModel.User CurrentUser { get; set; }
 
 
-        public static void GetImageData()
+        public static void GetImagePetModel()
         {
             try
             {
-                var list = Data.PetrouEntities.GetContext().Product.ToList();
+                var list = PetModel.PetrouEntities.GetContext().Product.ToList();
 
                 foreach (var item in list)
                 {
@@ -29,7 +29,7 @@ namespace PetShop_petro.Classes
                         item.Image = File.ReadAllBytes(path);
                     }
                 }
-                Data.PetrouEntities.GetContext().SaveChanges();
+                PetModel.PetrouEntities.GetContext().SaveChanges();
             }
             catch (Exception)
             {

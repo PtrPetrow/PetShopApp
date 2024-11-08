@@ -25,3 +25,164 @@ C:\PetroU\PetShop_petro\PetShop_petro\obj\Debug\Pages\ViewProductsPage.g.cs
 C:\PetroU\PetShop_petro\PetShop_petro\obj\Debug\PetShop_petro_Content.g.cs
 C:\PetroU\PetShop_petro\PetShop_petro\obj\Debug\Pages\ViewProductsPage.baml
 C:\PetroU\PetShop_petro\PetShop_petro\obj\Debug\PetShop_petro.csproj.CopyComplete
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\bin\Debug\PetShop_petro.exe.config
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\bin\Debug\PetShop_petro.exe
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\bin\Debug\PetShop_petro.pdb
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.dll
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.xml
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.AssemblyReference.cache
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\MainWindow.g.cs
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\Pages\Page1.g.cs
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\Pages\ViewProductsPage.g.cs
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\App.g.cs
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro_Content.g.cs
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro_MarkupCompile.cache
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro_MarkupCompile.lref
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\App.baml
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\MainWindow.baml
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\Pages\Page1.baml
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\Pages\ViewProductsPage.baml
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.g.resources
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.Properties.Resources.resources
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.GenerateResource.cache
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.CoreCompileInputs.cache
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\PetShop_.BF5BE0D4.Up2Date
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.exe
+C:\Users\phila\Source\Repos\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.pdb
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.AssemblyReference.cache
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\MainWindow.g.cs
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\Pages\Page1.g.cs
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\Pages\ViewProductsPage.g.cs
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\App.g.cs
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro_Content.g.cs
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro_MarkupCompile.cache
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro_MarkupCompile.lref
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.exe
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.pdb
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\bin\Debug\PetShop_petro.exe.config
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\bin\Debug\PetShop_petro.exe
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\bin\Debug\PetShop_petro.pdb
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.dll
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\bin\Debug\System.Drawing.Common.dll
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.xml
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\bin\Debug\System.Drawing.Common.pdb
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\bin\Debug\System.Drawing.Common.xml
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\App.baml
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\MainWindow.baml
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\Pages\Page1.baml
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\Pages\ViewProductsPage.baml
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.g.resources
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.Properties.Resources.resources
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.GenerateResource.cache
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.CoreCompileInputs.cache
+C:\Users\phila\OneDrive\Рабочий стол\123\PetShopApp\PetShop_petro\obj\Debug\PetShop_.BF5BE0D4.Up2Date
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\bin\Debug\PetShop_petro.exe.config
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\bin\Debug\PetShop_petro.exe
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\bin\Debug\PetShop_petro.pdb
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.dll
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\bin\Debug\System.Drawing.Common.dll
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.xml
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\bin\Debug\System.Drawing.Common.pdb
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\bin\Debug\System.Drawing.Common.xml
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.AssemblyReference.cache
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\MainWindow.g.cs
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\Pages\AddEditProductPage.g.cs
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\Pages\Page1.g.cs
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\Pages\ViewProductsPage.g.cs
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\App.g.cs
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro_Content.g.cs
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro_MarkupCompile.cache
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro_MarkupCompile.lref
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\App.baml
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\MainWindow.baml
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\Pages\Page1.baml
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\Pages\ViewProductsPage.baml
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\Pages\AddEditProductPage.baml
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.g.resources
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.Properties.Resources.resources
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.GenerateResource.cache
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.CoreCompileInputs.cache
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\PetShop_.BF5BE0D4.Up2Date
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.exe
+C:\Users\filon\Desktop\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.pdb
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.AssemblyReference.cache
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\MainWindow.g.cs
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\Pages\AddEditProductPage.g.cs
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\Pages\AdminLKPage.g.cs
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\Pages\Page1.g.cs
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\Pages\ViewProductsPage.g.cs
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\App.g.cs
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro_Content.g.cs
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro_MarkupCompile.cache
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro_MarkupCompile.lref
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.exe
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.pdb
+C:\PetroU\PetShopApp\PetShop_petro\bin\Debug\PetShop_petro.exe.config
+C:\PetroU\PetShopApp\PetShop_petro\bin\Debug\PetShop_petro.exe
+C:\PetroU\PetShopApp\PetShop_petro\bin\Debug\PetShop_petro.pdb
+C:\PetroU\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.dll
+C:\PetroU\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.SqlServer.dll
+C:\PetroU\PetShopApp\PetShop_petro\bin\Debug\System.Drawing.Common.dll
+C:\PetroU\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.xml
+C:\PetroU\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.SqlServer.xml
+C:\PetroU\PetShopApp\PetShop_petro\bin\Debug\System.Drawing.Common.pdb
+C:\PetroU\PetShopApp\PetShop_petro\bin\Debug\System.Drawing.Common.xml
+C:\PetroU\PetShopApp\PetShop_petro\bin\Debug\ru\EntityFramework.resources.dll
+C:\PetroU\PetShopApp\PetShop_petro\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\App.baml
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\MainWindow.baml
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\Pages\AddEditProductPage.baml
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\Pages\AdminLKPage.baml
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\Pages\Page1.baml
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\Pages\ViewProductsPage.baml
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.g.resources
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.Properties.Resources.resources
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.GenerateResource.cache
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.CoreCompileInputs.cache
+C:\PetroU\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.CopyComplete
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\bin\Debug\PetShop_petro.exe.config
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\bin\Debug\PetShop_petro.exe
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\bin\Debug\PetShop_petro.pdb
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.dll
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.SqlServer.dll
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\bin\Debug\System.Drawing.Common.dll
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.xml
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\bin\Debug\EntityFramework.SqlServer.xml
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\bin\Debug\System.Drawing.Common.pdb
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\bin\Debug\System.Drawing.Common.xml
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\bin\Debug\ru\EntityFramework.resources.dll
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.AssemblyReference.cache
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\MainWindow.g.cs
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\Pages\AddEditProductPage.g.cs
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\Pages\AdminLKPage.g.cs
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\Pages\Page1.g.cs
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\Pages\ViewProductsPage.g.cs
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\App.g.cs
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro_Content.g.cs
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro_MarkupCompile.cache
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro_MarkupCompile.lref
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\App.baml
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\MainWindow.baml
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\Pages\AddEditProductPage.baml
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\Pages\AdminLKPage.baml
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\Pages\Page1.baml
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\Pages\ViewProductsPage.baml
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.g.resources
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.Properties.Resources.resources
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.GenerateResource.cache
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.CoreCompileInputs.cache
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.csproj.CopyComplete
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.exe
+C:\PetroU\1 работа\PetShopApp\PetShop_petro\obj\Debug\PetShop_petro.pdb
