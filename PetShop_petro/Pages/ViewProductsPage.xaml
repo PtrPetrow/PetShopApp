@@ -102,10 +102,10 @@
                         <TextBlock Grid.Column="2" Text="{Binding QuantityInStock, 
                             StringFormat={}Наличие на складе: {0}}"
                                    VerticalAlignment="Center" HorizontalAlignment="Center"/>
-                        <Button x:Name="DeleteButton" Content="Удалить"
+                        <!--`<Button x:Name="DeleteButton" Content="Удалить"
                             Click="DeleteButton_Click" Grid.Column="3"></Button>
                         <Button x:Name="EditButton" Content="Редактировать"
-                            Click="EditButton_Click" Grid.Column="4"></Button>
+                            Click="EditButton_Click" Grid.Column="4"></Button>-->
                     </Grid>
                 </DataTemplate>
             </ListView.ItemTemplate>

@@ -140,15 +140,7 @@ namespace PetShop_petro.Pages
 
         private void BackButton_Click(object sender, RoutedEventArgs e)
         {
-            if (Manager.MainFrame.CanGoBack)
-            {
-                if (Manager.CurrentUser != null)
-                {
-                    Manager.CurrentUser = null;
-                }
-
-                Manager.MainFrame.GoBack();
-            }
+            Manager.MainFrame.Navigate(new Pages.Page1());
         }
 
         private void ManufacturerComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)

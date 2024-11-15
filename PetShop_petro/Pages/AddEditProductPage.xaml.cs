@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,9 +22,11 @@ namespace PetShop_petro.Pages
     /// </summary>
     public partial class AddEditProductPage : Page
     {
+        public PetModel.Product NewUser { get; set; }
         public string FlagAddOrEdit = "default";
         public PetModel.Product _currentProduct = new PetModel.Product();
         public AddEditProductPage(PetModel.Product product)
+
         {
             InitializeComponent();
 
@@ -42,6 +46,7 @@ namespace PetShop_petro.Pages
         }
         public void Init()
         {
+            NewUser = new PetModel.Product();
             try
             {
                 var pvp = PetModel.PetrouEntities.GetContext().Category.ToList();
@@ -268,13 +273,31 @@ namespace PetShop_petro.Pages
             catch (Exception ex)
             {
 
-                MessageBox.Show("Ошибка!", "Ошибка!", MessageBoxButton.OK, MessageBoxImage.Error);
+                MessageBox.Show("Успех!", "Готово!", MessageBoxButton.OK, MessageBoxImage.Information);
             }
         }
 
         private void ProductImage_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            //Логика открытия диалогового окна
+            SetImage();
+        }
+        private void SetImage()
+        {
+            OpenFileDialog Dialog = new OpenFileDialog();
+            Dialog.Filter = "Изображения (*.png, *.jpg, *.jpeg)|*.png;*.jpg;*.jpeg";
+            string Path = "";
+            if (Dialog.ShowDialog() == true)
+            {
+                Path = Dialog.FileName;
+            }
+            if (string.IsNullOrEmpty(Path))
+            {
+                return;
+            }
+            BitmapImage Image = new BitmapImage(new Uri(Path));
+            ProductImage.Source = Image;
+            NewUser.Image = File.ReadAllBytes(Path);
+            NewUser.ImageName = Path.Split('\\').Last().ToString();
         }
     }
 }
